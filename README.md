@@ -1,7 +1,7 @@
 # 🌍 Predicting Global Poverty with Machine Learning
 
 ## 📌 Project Overview
-This project applies machine learning to **predict a country’s Human Development Index (HDI)** — a key measure of health, education, and living standards.  
+This project applies machine learning to **predict a country’s Human Development Index (HDI)**, a key measure of health, education, and living standards.  
 The work is motivated by the **United Nations’ Sustainable Development Goals (SDGs)** and the need for **evidence-based policymaking** in tackling global poverty.  
 
 By forecasting HDI trends, the model can help governments and international agencies:
@@ -49,10 +49,17 @@ By forecasting HDI trends, the model can help governments and international agen
 
 ---
  ## 🖼️ **Visuals:**
-     * ![Distribution of GDP per Capita](images/distribution_of_gdp_per_capita.png)
-     * ![Correlation Heatmap of WDI Indicators](images/correlation_heatmap_of_wdi_indicators.png)
-     * ![Feature Importance](images/feature_importance_from_random_foreset_regression.png)
-     * ![Model Performance Comparison](images/model_performance_comparison.png)
+### Distribution of GDP per Capita
+![Distribution of GDP per Capita](https://raw.githubusercontent.com/Elsie-Muhumuza/global_poverty_forecasting/main/images/distribution_of_gdp_per_capita.png)
+
+### Correlation Heatmap of WDI Indicators
+![Correlation Heatmap of WDI Indicators](https://github.com/Elsie-Muhumuza/global_poverty_forecasting/blob/main/images/correlation_heatmap_of_wdi_indicators.png?raw=true)
+
+### Feature Importance from Random Forest Regression
+![Feature Importance from Random Forest Regression](https://github.com/Elsie-Muhumuza/global_poverty_forecasting/blob/main/images/feature_importance_from_random_foreset_regression.png?raw=true)
+
+### Model Performance Comparison
+![Model Performance Comparison](https://github.com/Elsie-Muhumuza/global_poverty_forecasting/blob/main/images/model_performance_comparison.png?raw=true)
 
 ---
      
