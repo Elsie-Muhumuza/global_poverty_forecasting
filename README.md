@@ -32,13 +32,13 @@ By forecasting HDI trends, the model can help governments and international agen
   
 
 #### Roles
-Data sourcing: Joan, Claire, Jemmie, Pervin, Elsie, Jackie
-Data Cleaning: Elsie, Jackie
-Data Visualization: Elsie, Pervin, Jemmie
-Models: Elsie, Pervin, Jackie
-Documentation: Elsie, Pervin, Claire, Jackie
-PowerPoint Slides: Jemmie
-Presentation: All members
+- Data sourcing: Joan, Claire, Jemmie, Pervin, Elsie, Jackie
+- Data Cleaning: Elsie, Jackie
+- Data Visualization: Elsie, Pervin, Jemmie
+- Models: Elsie, Pervin, Jackie
+- Documentation: Elsie, Pervin, Claire, Jackie
+- PowerPoint Slides: Jemmie
+- Presentation: All members
 
 #### Collaboration: 
 Shared Colab, no major disagreements, resolved blockers via daily check-ins.
@@ -104,10 +104,10 @@ The project demonstrates how machine learning can be applied to:
 - Provide **early-warning systems** for countries at risk of falling behind  
 - Support **policy simulation** (e.g., effects of investing more in healthcare or education)  
 - Contribute to **transparent, data-driven development planning**
-- Guide resource allocation toward the most impactful areas
-- Enable targeted aid for countries at risk
-- Act as a data validation and cost-effective estimation tool
-- Promote accountability and progress monitoring through explainable predictions
+- Guide **resource allocation** toward the most impactful areas
+- Enable **targeted aid** for countries at risk
+- Act as a **data validation and cost-effective estimation** tool
+- Promote **accountability** and progress monitoring through explainable predictions
 
 ---
 
